@@ -31,6 +31,7 @@ The interactive Excel Dashboard provides a visual summary of the following KPIs:
 ## 📂 Project Files
 * **[hotel_booking_data.xlsx](hotel_booking_data.xlsx):** The main workbook containing the Data, Pivot Tables, and Dashboard.
 * **Dashboard Preview:**![Dashboard Preview](Dashboard_Preview.png) A screenshot of the final dashboard for quick viewing.
+* **Pivot Tbale preview:**![Pivot Table preview](pivot_Preview.png) A screenshot of the important pivot table for quick understanding.
 
 ---
 
