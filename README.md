@@ -8,7 +8,6 @@ This project analyzes a comprehensive hotel booking dataset to uncover guest pre
 ## 📊 Dashboard Highlights
 The interactive Excel Dashboard provides a visual summary of the following KPIs:
 * **Total Bookings & Cancellations:** Real-time tracking of booking status.
-* **Average Daily Rate (ADR):** Monitoring revenue performance across different hotel types.
 * **Guest Segmentation:** Breakdown of Single, Couple, and Family travelers.
 * **Monthly Trends:** Visualizing peak arrival months to optimize staffing and pricing.
 
@@ -22,9 +21,10 @@ The interactive Excel Dashboard provides a visual summary of the following KPIs:
 ---
 
 ## 💡 Key Business Insights
-* **Cancellation Drivers:** Guests who were assigned a room type different from their "Desired Room" showed a significantly higher cancellation rate.
-* **Lead Time Impact:** Analysis suggests that bookings made more than **150 days in advance** are more prone to cancellations.
-* **Revenue Peak:** **City Hotels** see a major spike in revenue during the spring, while **Resort Hotels** dominate the summer months.
+* **Guest Type:** Couples count is more than Family and Singles
+* **Cancellation Drivers:** Guests who were assigned a room type different from their "Desired Room" showed a similar cancellation rate than Undesired roomtype. and Cancellation Rate is high in November and December.
+* **Revenue Peak:** **City Hotels** see a major spike in revenue during the spring, while **Resort Hotels** dominate the summer months.and In 2017, Family guest count were very less as compared to other year.
+  
 
 ---
 
